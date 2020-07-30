@@ -1,0 +1,14 @@
+G:\C#\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.exe.config
+G:\C#\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.exe
+G:\C#\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.pdb
+G:\C#\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+G:\C#\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+G:\C#\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.exe
+G:\C#\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.pdb
+C:\Users\Hp\Desktop\GitHub\C#\Adapter_Design Pattern\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Hp\Desktop\GitHub\C#\Adapter_Design Pattern\Adapter\bin\Debug\Adapter.exe
+C:\Users\Hp\Desktop\GitHub\C#\Adapter_Design Pattern\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Hp\Desktop\GitHub\C#\Adapter_Design Pattern\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\GitHub\C#\Adapter_Design Pattern\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\GitHub\C#\Adapter_Design Pattern\Adapter\obj\Debug\Adapter.exe
+C:\Users\Hp\Desktop\GitHub\C#\Adapter_Design Pattern\Adapter\obj\Debug\Adapter.pdb
